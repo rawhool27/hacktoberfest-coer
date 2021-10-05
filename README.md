@@ -80,10 +80,7 @@ You can find FAQs [here](https://hacktoberfest.digitalocean.com/faq).
 
 <h2>📝License</h2>  
 
-This project follows the [MIT License](https://github.com/nakshatra-garg/hacktoberfest-coer/blob/main/LICENSE).
 
-
-<h2>🙂Project Admin</h2>
 
 [Nakshatra Garg](https://github.com/nakshatra-garg)
 
